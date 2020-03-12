@@ -1,6 +1,6 @@
 ---
 title: "Quickstart: Train a model in R"
-description: In this quickstart, you'll create and train a predictive model using T. You'll save the model to a table in your SQL Server instance, and then use the model to predict values from new data using SQL Server Machine Learning Services.
+description: In this quickstart, you'll create and train a predictive model using R. You'll save the model to a table in your SQL Server instance, and then use the model to predict values from new data using SQL Server Machine Learning Services.
 ms.prod: sql
 ms.technology: machine-learning
 ms.date: 01/27/2020  
